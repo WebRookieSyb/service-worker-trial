@@ -1,0 +1,15 @@
+{
+  "name": "service-worker",
+  "description": "demo",
+  "scripts": {
+    "server": "node server/server.js"
+  },
+  "devDependencies": {
+    "express": "^4.16.4",
+    "web-push": "^3.3.3"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "lowdb": "^1.0.0"
+  }
+}
